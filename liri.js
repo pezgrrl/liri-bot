@@ -51,7 +51,7 @@ function doSomething(command, data) {
             }
         });
     }
-
+    
     function spotifyThisSong(songName) {
 
         spotify.search({
